@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	padding: 30px;
+	background: #FF733A;
+	width:291px;
+	height: 85px;
+}
+
+.sub {
+		font-size: 59px;
+}
+
+.sup {
+	font-size: 67px;
+}
+
+span {
+	font-style: italic;
+}
